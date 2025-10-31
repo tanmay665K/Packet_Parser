@@ -77,3 +77,5 @@ verification
 The checksum is calculated using bitwise XOR:
 
 `checksum = device_id ^ sequence_num ^ audio_data`
+
+<img width="877" height="801" alt="Image" src="https://github.com/user-attachments/assets/ed472070-e42c-4b9e-beaf-3ca32ab8ca7a" />
