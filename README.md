@@ -78,4 +78,5 @@ The checksum is calculated using bitwise XOR:
 
 `checksum = device_id ^ sequence_num ^ audio_data`
 
+The image shown below is the final clock tree synthesis as well as the final layout, both achieved using Cadence Innovus and Genus
 <img width="877" height="801" alt="Image" src="https://github.com/user-attachments/assets/ed472070-e42c-4b9e-beaf-3ca32ab8ca7a" />
